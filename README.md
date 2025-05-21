@@ -1,19 +1,30 @@
-👨‍🎓 Graduating Science Computing in Universidade de Brasília - UnB
+👨‍🎓 Graduating in Science Computing in Universidade de Brasília - UnB
 
-export default () => ({
-  ⚡ askMeAbout: [
-    "UX/UI", "webdev", "tech", "IA", 
-  ],
-  🛠️ technologies: {
-    "languages": ["Python", "C", "SQL", "HTML", "CSS"],
-    "tools": [ "VSCode", "Figma", "Git"]
-  },
-  🎓 Training: [
-    "Universidade de Brasília - UnB | Ciência da Computação",
-    "Instituto Federal de Brasília - IFB | Tecnólogo em Design de Produtos",
-  ]
-  📫 Contact: [
-      "E-mail | dmottadf@gmail.com",
-    "LinkedIn | https://www.linkedin.com/in/demolts/",
-  ]
-});
+👨‍🎓 Graduated in Product Design from Instituto Federal de Brasília - IFB
+
+
+
+  ⚡ Skills:
+  
+    ["UX/UI", "webdev", "tech", "IA"] 
+  
+  
+  🛠️ Technologies: 
+  
+    Languages: ["Python", "C", "SQL", "HTML", "CSS"]
+    
+    Tools: ["VSCode", "Figma", "Git"]
+  
+  
+  🎓 Training:
+  
+    Universidade de Brasília - UnB | Ciência da Computação
+    
+    Instituto Federal de Brasília - IFB | Tecnólogo em Design de Produtos
+  
+  📫 Contact: 
+  
+      E-mail | dmottadf@gmail.com
+      
+      LinkedIn | https://www.linkedin.com/in/demolts/
+    
