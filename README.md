@@ -6,7 +6,7 @@
 
   ⚡ Skills:
   
-    ["UX/UI", "webdev", "tech", "IA"] 
+    ["UX/UI", "webdev", "IA", "FullStack"] 
   
   
   🛠️ Technologies: 
