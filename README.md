@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**demolts/demolts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export default () => ({
+  ⚡ askMeAbout: [
+    "UX/UI", "webdev", "tech", "IA", 
+  ],
+  🛠️ technologies: {
+    "languages": ["Python", "C", "SQL", "HTML", "CSS"],
+    "tools": [ "VSCode", "Figma", "Git"]
+  },
+  🎓 Training: [
+    "Universidade de Brasília - UnB | Ciência da Computação",
+    "Instituto Federal de Brasília - IFB | Tecnólogo em Design de Produtos",
+  ]
+  📫 Contact: [
+      "E-mail | dmottadf@gmail.com",
+    "LinkedIn | https://www.linkedin.com/in/demolts/",
+  ]
+});
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=demolts&show_icons=true&theme=dracula" alt="Stats" />
+</p>
