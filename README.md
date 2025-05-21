@@ -1,3 +1,5 @@
+👨‍🎓 Graduating Science Computing in Universidade de Brasília - UnB
+
 export default () => ({
   ⚡ askMeAbout: [
     "UX/UI", "webdev", "tech", "IA", 
